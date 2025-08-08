@@ -24,19 +24,6 @@ Track gross margin percentage by quarter and sub-zones to spot low-performing re
 ✔ **Product & Market Drilldown**  
 See top/bottom performers by product or region. Who's buying more? Where are margins tight?
 
----
-
-##  Sneak Peek (Screenshots)
-
-![Dashboard Overview](screenshots/dashboard-overview.png)
-* Dynamic dashboards showcasing fiscal performance at a glance*
-
-![GM by Market](screenshots/gm-by-market.png)
-* Compare GM% across sub-zones to find revenue leaks*
-
-> _ Tip: Add actual screenshots from your Excel file in a `/screenshots` folder._
-
----
 
 ## 🛠 Under the Hood
 
