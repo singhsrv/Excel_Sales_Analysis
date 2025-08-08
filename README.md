@@ -1,84 +1,102 @@
-#  Profit & Loss Analytics Dashboard – AtliQ Hardware
+#  Profit & Loss Dashboard – AtliQ Hardware
 
-Welcome to the **P&L Excel Project** – a hands-on financial analysis built for **AtliQ Hardware**, a global player in the PC and accessories market. This dashboard helps decision-makers slice through sales noise, uncover profitability gaps, and align finance with business goals.
+**A dynamic Excel dashboard that makes sense of numbers, not just displays them.**
 
-> **Built using Excel's BI features — Power Query, PivotTables, and DAX — this project turns messy raw data into clear, actionable insights.**
-
----
-
-##  What’s Inside?
-
-This project isn’t just a collection of spreadsheets — it’s a fully interactive P&L reporting tool.
-
-✔ **Profit & Loss Reports**  
-Breaks down revenue, costs, gross margin %, and profit across:
-
-- 📅 Fiscal Years  
-- 📆 Monthly Trends  
-- 🌍 Regional Markets  
-- 🧭 Business Divisions  
-
-✔ **Visual GM% Tracker**  
-Track gross margin percentage by quarter and sub-zones to spot low-performing regions.
-
-✔ **Product & Market Drilldown**  
-See top/bottom performers by product or region. Who's buying more? Where are margins tight?
-
-
-## 🛠 Under the Hood
-
-###  Data Processing (ETL)
-
-- Used **Power Query** to clean and structure half a million+ sales records
-- Built a **custom date table** for dynamic filtering and fiscal calendar handling
-- Normalized inconsistent market names and categories
-
-###  Modeling & Logic
-
-- Created relationships using **Power Pivot**
-- Built custom **DAX** measures and calculated columns:
-  - Gross Margin %
-  - Fiscal months and quarters
-  - Target vs Actual KPIs
-
-###  Reporting Features
-
-- Interactive slicers: Year, Market, Product, Region
-- Drill-through from division > product > market
-- Conditional formatting to highlight performance gaps
+Built to help teams at AtliQ Hardware — and anyone working with multi-market sales — get a sharp, clear view of **profits, losses, and performance trends** across time and territory.
 
 ---
 
-##  Why This Matters
+##  What You'll Find
 
- **For Analysts**  
-Get a scalable Excel template for deep-dive financial reporting.
+This isn’t your average Excel sheet. It’s a fully functional business intelligence dashboard — built with *zero* external tools, just the power of Excel.
 
- **For Stakeholders**  
-Gain transparency into what’s driving profit and where inefficiencies lie.
+- 📅 **Profit & Loss reports** across Fiscal Years, Quarters & Months  
+- 🌍 **Market-level analysis** – see where sales are thriving or slipping  
+- 💰 **Gross Margin insights** – visualized by sub-zones & product lines  
+- 🏆 **Top & bottom product performance** – highlight what’s working (or not)  
+- 🎯 **Target vs. Actual tracking** – keep tabs on sales goals
 
- **For Strategy & Planning**  
-Make forecasting and budget planning data-driven and aligned with reality.
+It’s clean. It’s fast. It tells a story.
 
 ---
 
-##  Contributing
+##  Why This Project Exists
 
-This is an open project! Collaboration is welcome from analysts, Excel wizards, and finance professionals.
+Most financial reports bury insights under a pile of rows. This project flips the script.
 
-If you'd like to contribute:
+✔ Designed for stakeholders who want clarity, not clutter  
+✔ Helps analysts cut down manual reporting time  
+✔ Supports smarter business decisions — backed by data
 
-1.  Fork this repository
-2.  Add your enhancements (KPIs, macros, visual improvements)
-3.  Submit a pull request or raise an issue with suggestions
+Whether you're a finance lead, a data analyst, or someone trying to get a grip on business performance, this dashboard gives you the tools to **ask better questions and get immediate answers**.
+
+---
+
+## Under the hood
+
+** Data Preparation (ETL):**  
+- Pulled raw sales data (~500,000 rows)  
+- Cleaned and transformed it using **Power Query**  
+- Generated a custom **date table** to support fiscal logic
+
+** Modeling & Logic:**  
+- Used **Power Pivot** to build relationships between tables  
+- Added calculated columns using **DAX** (e.g., GM%, target deltas, fiscal period tags)  
+- Incorporated multiple datasets to enrich the analysis
+
+** Dashboard Features:**  
+- Interactive slicers for year, market, and product  
+- Conditional formatting for visual alerts  
+- Drill-down navigation from division → product → region
+
+
+
+## 🎓 Skills Applied
+
+###  Technical
+
+- ETL workflow using **Power Query**
+- Generated custom **date tables** for fiscal calculations
+- Designed models with **Power Pivot**
+- Created calculated columns and KPIs using **DAX**
+- Combined multiple data sources into one cohesive model
+
+###  Soft Skills
+
+- Focused on **stakeholder needs**, not just data output  
+- Designed reports with **usability and visual flow** in mind  
+- Streamlined reporting process — less manual, more insight  
+- Built a framework that’s easy to update or expand
+
+---
+
+##  Who It's For
+
+- **Finance professionals** who want clarity from complexity  
+- **Data analysts** looking to sharpen their Excel BI skills  
+- **Stakeholders** who want dashboards that actually mean something  
+- **Students & learners** inspired by real-world reporting challenges
+
+If you fall into any of the above, this project might just save you a few headaches.
+
+---
+
+##  Want to Contribute?
+
+Spotted something that can be improved? Got ideas for new features or KPIs? Jump in!
+
+- 🍴 Fork the repo  
+- 💡 Share your suggestions via Issues or Pull Requests  
+- 🔧 Build alongside other Excel nerds
 
 ---
 
 ##  Credits
 
-Built as part of the **Codebasics Excel: Mother of BI** project series  
-Business Case: **AtliQ Hardware**
+Developed as part of the **Excel: Mother of BI** course by Codebasics  
+Business scenario provided by **AtliQ Hardware**
 
 ---
 
-**Thank you for stopping by!**
+**Thank you for stopping by!** 
+
