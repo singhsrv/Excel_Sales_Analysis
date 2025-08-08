@@ -10,11 +10,11 @@ Built to help teams at AtliQ Hardware — and anyone working with multi-market s
 
 This isn’t your average Excel sheet. It’s a fully functional business intelligence dashboard — built with *zero* external tools, just the power of Excel.
 
-- 📅 **Profit & Loss reports** across Fiscal Years, Quarters & Months  
-- 🌍 **Market-level analysis** – see where sales are thriving or slipping  
-- 💰 **Gross Margin insights** – visualized by sub-zones & product lines  
-- 🏆 **Top & bottom product performance** – highlight what’s working (or not)  
-- 🎯 **Target vs. Actual tracking** – keep tabs on sales goals
+-  **Profit & Loss reports** across Fiscal Years, Quarters & Months  
+-  **Market-level analysis** – see where sales are thriving or slipping  
+-  **Gross Margin insights** – visualized by sub-zones & product lines  
+-  **Top & bottom product performance** – highlight what’s working (or not)  
+-  **Target vs. Actual tracking** – keep tabs on sales goals
 
 It’s clean. It’s fast. It tells a story.
 
@@ -51,7 +51,7 @@ Whether you're a finance lead, a data analyst, or someone trying to get a grip o
 
 
 
-## 🎓 Skills Applied
+##  Skills Applied
 
 ###  Technical
 
@@ -85,9 +85,9 @@ If you fall into any of the above, this project might just save you a few headac
 
 Spotted something that can be improved? Got ideas for new features or KPIs? Jump in!
 
-- 🍴 Fork the repo  
-- 💡 Share your suggestions via Issues or Pull Requests  
-- 🔧 Build alongside other Excel nerds
+-  Fork the repo  
+-  Share your suggestions via Issues or Pull Requests  
+-  Build alongside other Excel nerds
 
 ---
 
@@ -98,5 +98,6 @@ Business scenario provided by **AtliQ Hardware**
 
 ---
 
-**Thank you for stopping by!** 
+Thanks for checking out my project! 😊
+
 
